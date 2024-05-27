@@ -1,0 +1,1 @@
+This folder contains information about the Sky Emission Lines as seen in the NIR spectrum of the NIRPS instrument. It was used in the emission line correction made by Avidaan Srivastava for the ESPRESSO-NIRPS DRS version DRS-3.2.0
